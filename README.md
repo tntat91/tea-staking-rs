@@ -1,0 +1,2 @@
+# tea-staking-rs
+testnet
